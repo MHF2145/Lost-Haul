@@ -1,8 +1,6 @@
 # Lost-Haul
 Game Prototype for task designed by GIGA Lab
 
-Lost Haul
-
 1. Overview: Perjalanan Mistis Dewa Kematian
    - Ikhtisar Game:
      Lost Haul menggabungkan konsep Diamond Rush dengan sentuhan unik, menghadirkan pemain ke dalam dunia mistis sebagai Dewa Kematian. Pemain menjelajahi Lost Haul, tempat jiwa-jiwa yang tersesat berada. Sebagai Dewa Kematian, pemain kebal terhadap perangkap fisik namun harus berhati-hati dengan lingkungan berbahaya yang bisa membunuh.
